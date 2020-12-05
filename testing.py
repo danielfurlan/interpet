@@ -1,5 +1,4 @@
 !pip install pyyaml==5.1
-!pip install 
 !pip install torch==1.7.0+cpu torchvision==0.8.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
 !pip install cython
 
